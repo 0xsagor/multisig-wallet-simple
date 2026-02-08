@@ -1,0 +1,13 @@
+{
+  "name": "multisig-wallet-simple",
+  "version": "1.0.0",
+  "description": "Simplified multi-signature wallet contract",
+  "main": "MultiSigWallet.sol",
+  "keywords": [
+    "multisig",
+    "wallet",
+    "security",
+    "solidity",
+    "ethereum"
+  ]
+}
